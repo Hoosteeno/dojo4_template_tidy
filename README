@@ -1,0 +1,22 @@
+h2. NAME
+
+dojo4_template_tidy
+
+h2. INSTALL
+
+# copy dojo4_template_tidy into ExpressionEngine "third_party" folder
+# copy dojo4_themes into ExpressionEngine "themes/third_party" folder
+
+h2. SYNOPSIS
+  
+Attempts to add classic "tidy" functionality to the ExpressionEngine control panel, specifically to the template modification screen.
+
+h2. HISTORY
+  
+h3. 0.0.1
+
+Initial release. Pre-alpha, use at your own risk, likely to break things, totally experimental.
+
+h2. LICENSE
+
+http://www.gnu.org/licenses/gpl.txt
