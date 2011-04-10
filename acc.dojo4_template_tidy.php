@@ -49,7 +49,7 @@ class Dojo4_template_tidy_acc {
       });
     }
     else {
-      $('input.dojo4_template_tidy').parent('li').remove();
+      $('a.dojo4_template_tidy').parent('li').remove();
     }
     
 END;
